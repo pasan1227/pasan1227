@@ -6,7 +6,7 @@
 <br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
 </p>
 
-- 💻  - Undergraduate in BSc (Hons) Computing
+- 💻  - Undergraduate in BSc (Hons) Computing**
 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasan1227&layout=compact&title_color=f34f29&text_color=000000&icon_color=FF6C00&locale=" alt="pasan1227" />
 
